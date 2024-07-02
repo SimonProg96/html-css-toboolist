@@ -1,0 +1,42 @@
+title {
+    height: 100px;
+    line-height: 100px;
+}
+
+img {
+    vertical-align: middle;
+    height: 50px;
+    margin-left: 20px;
+}
+
+h1 {
+    line-height: 50px;
+    height: 50px;
+    display: inline
+    
+}
+
+#task-section {
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 150px;
+}
+
+
+#color-button-task {
+    border-radius: 3px;
+    border-color: aqua;
+    text-decoration-color: white;
+    background-color:aqua
+}
+
+#color-button-section {
+
+    border-radius: 3px;
+    text-decoration-color: grey;
+    border-color:grey
+    
+}
+
+
+
